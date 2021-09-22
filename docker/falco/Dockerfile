@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:11
 
 LABEL maintainer="cncf-falco-dev@lists.cncf.io"
 
